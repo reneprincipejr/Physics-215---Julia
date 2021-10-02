@@ -10,11 +10,11 @@ manipulations
 
 ### Course Goals
 <br> At the end of the semester, the student will be able to
-<br> 1. [G1] Identify basic principles in high-performance computation especially those accessible via Julia as a programming language;
-<br> 2. [G2] Solve at least one ODE-based problem using numerical approach in Julia, showing the solutions in graphical plots;
-<br> 3. [G3] Implement known numerical methods for solving or simulating basic physical models using Julia as the programming language;
-<br> 4. [G4] Identify critical principles of simulation and modeling in at least one project involving physical system modeling or simulation;
-<br> 5. [G5] Submit at least one completed project implemented using Julia programming language clearly demonstrating at least two out of the first four (G1-G4) above.
+<br>* 1. [G1] Identify basic principles in high-performance computation especially those accessible via Julia as a programming language;
+<br>* 2. [G2] Solve at least one ODE-based problem using numerical approach in Julia, showing the solutions in graphical plots;
+<br>* 3. [G3] Implement known numerical methods for solving or simulating basic physical models using Julia as the programming language;
+<br>* 4. [G4] Identify critical principles of simulation and modeling in at least one project involving physical system modeling or simulation;
+<br>* 5. [G5] Submit at least one completed project implemented using Julia programming language clearly demonstrating at least two out of the first four (G1-G4) above.
 
 ### Topics
 The sequence of topics will generally follow the MAIN book reference. This list may change as determined by the instructor. Each number will generally be allocated for the week number of the semester.
