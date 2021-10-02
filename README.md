@@ -19,8 +19,8 @@ manipulations
 ### Topics
 The sequence of topics will generally follow the MAIN book reference. This list may change as determined by the instructor. Each number will generally be allocated for the week number of the semester.
 <br> 1. Introduction
-<br>    a. Installation of software
-<br>    b. Basic Julia demonstration
+<br>⋅⋅⋅a. Installation of software
+<br>⋅⋅⋅b. Basic Julia demonstration
 <br> 2. HPC and the Julia framework
 <br> 3. Analyzing performance
 <br> 4. Types, type inferencing and type stability
@@ -28,15 +28,15 @@ The sequence of topics will generally follow the MAIN book reference. This list 
 <br> 6. Fast numbers;Using arrays ( Vectors and Matrixes )
 <br> 7. (optional) Utilizing GPU
 <br> 8. Programming workflow
-<br>    a. using Pkg.jl project management
-<br>    b. GitHub version control
+<br>⋅⋅⋅a. using Pkg.jl project management
+<br>⋅⋅⋅b. GitHub version control
 <br> 9. HP computing
-<br>    a. Concurrent programming with Tasks.jl
-<br>    b. Parallel execution with Threads.jl
-<br>    c. Distributed computing with Distributed.jl
+<br>⋅⋅⋅a. Concurrent programming with Tasks.jl
+<br>⋅⋅⋅b. Parallel execution with Threads.jl
+<br>⋅⋅⋅c. Distributed computing with Distributed.jl
 <br> 10. Projects
-<br>    a. Mini project(s)s — application to Physics textbook problem(s)
-<br>    b. Final project — reproduction of previously-published papers on system simulation, or model analysis [novelty not required/exempted]
+<br>⋅⋅⋅a. Mini project(s)s — application to Physics textbook problem(s)
+<br>⋅⋅⋅b. Final project — reproduction of previously-published papers on system simulation, or model analysis [novelty not required/exempted]
    
    
 ### References
