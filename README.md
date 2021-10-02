@@ -18,7 +18,7 @@ manipulations
 
 ### Topics
 The sequence of topics will generally follow the MAIN book reference. This list may change as determined by the instructor. Each number will generally be allocated for the week number of the semester.
-<br> 1. Introduction
+⋅⋅1. Introduction
 ⋅⋅⋅a. Installation of software
 ⋅⋅⋅b. Basic Julia demonstration
 <br> 2. HPC and the Julia framework
