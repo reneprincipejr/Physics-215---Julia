@@ -13302,23 +13302,24 @@ species.  Let two variables <code>x</code> and <code>y</code> be proportional to
 <p>where $\alpha$ and $\beta$ are constants.  At the same time the foxes reproduce at a rate proportional the rate at which they eat rabbits---because they need food to grow and reproduce---but also die of old age at a rate proportional to their own population:</p>
 <p>$\frac{dy}{dt} = \gamma xy - \delta y,$</p>
 <p>where $\gamma$ and $\delta$ are also constants.</p>
-\begin{enumerate}
-\item Write a program to solve these equations using the fourth-order
-  Runge--Kutta method for the case $\alpha=1$, $\beta=\gamma=0.5$, and
-  $\delta=2$, starting from the initial condition $x=y=2$.  Have the
-  program make a graph showing both $x$ and $y$ as a function of time on
-  the same axes from $t=0$ to $t=30$.  (Hint: Notice that the differential
-  equations in this case do not depend explicitly on time~$t$---in vector
-  notation, the right-hand side of each equation is a function $f(\vec{r})$
-  with no $t$ dependence.  You may nonetheless find it convenient to define
-  a Python function \verb|f(r,t)| including the time variable, so that your
-  program takes the same form as programs given earlier in this chapter.
-  You don't have to do it that way, but it can avoid some confusion.
-  Several of the following exercises have a similar lack of explicit
-  time-dependence.)
-\item Describe in words what is going on in the system, in terms of rabbits
-  and foxes.
-\end{enumerate}
+<ol>
+<li>Write a program to solve these equations using the fourth-order
+Runge--Kutta method for the case $\alpha=1$, $\beta=\gamma=0.5$, and
+$\delta=2$, starting from the initial condition $x=y=2$.  Have the
+program make a graph showing both $x$ and $y$ as a function of time on
+the same axes from $t=0$ to $t=30$.  (Hint: Notice that the differential
+equations in this case do not depend explicitly on time~$t$---in vector
+notation, the right-hand side of each equation is a function $f(\vec{r})$
+with no $t$ dependence.  You may nonetheless find it convenient to define
+a Python function \verb|f(r,t)| including the time variable, so that your
+program takes the same form as programs given earlier in this chapter.
+You don't have to do it that way, but it can avoid some confusion.
+Several of the following exercises have a similar lack of explicit
+time-dependence.)</li>
+<li>Describe in words what is going on in the system, in terms of rabbits
+and foxes.</li>
+</ol>
+
 </div>
 </div>
 </div>
@@ -14127,7 +14128,7 @@ URL: <a href="http://www.scienceindia.in/home/view_article/4">http://www.science
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>\textbf{Compare the performance (accuracy) of the implemented function in comparison with the existing special functions within Julia (or a reliable module)}</p>
+<p><strong>Compare the performance (accuracy) of the implemented function in comparison with the existing special functions within Julia (or a reliable module)</strong></p>
 
 </div>
 </div>
@@ -15198,7 +15199,7 @@ M1879.69 352.309 L2280.18 352.309 L2280.18 93.1086 L1879.69 93.1086  Z
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>\textbf{<br> Successful loading of the <code>BenchmarkTools</code> module. May need to add it first via the <code>Pkg</code> or REPL package mode.}</p>
+<p><strong>Successful loading of the <code>BenchmarkTools</code> module. May need to add it first via the <code>Pkg</code> or REPL package mode.</strong></p>
 
 </div>
 </div>
@@ -16613,7 +16614,7 @@ end</code></pre>
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>\textbf{Identified demonstrated useful features within the <code>Profiler</code> module of Julia. Features must be explained why useful for your case.}</p>
+<p><strong>Identified demonstrated useful features within the <code>Profiler</code> module of Julia. Features must be explained why useful for your case.</strong></p>
 
 </div>
 </div>
@@ -17488,7 +17489,7 @@ Total snapshots: 3105
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>\textbf{A discussion of the performance of the implemented function above.}</p>
+<p><strong>A discussion of the performance of the implemented function above.</strong></p>
 
 </div>
 </div>
